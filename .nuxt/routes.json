@@ -1,0 +1,16 @@
+[
+  {
+    "name": "create",
+    "path": "/create",
+    "component": "/Users/rafaelm/Documents/WebDev/NUXT/real-world-nuxt/pages/create.vue",
+    "chunkName": "pages/create",
+    "_name": "_462816ae"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/rafaelm/Documents/WebDev/NUXT/real-world-nuxt/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_88f42696"
+  }
+]
